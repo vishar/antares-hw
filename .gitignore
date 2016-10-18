@@ -40,6 +40,13 @@ TestResult.xml
 [Rr]eleasePS/
 dlldata.c
 
+#VisualGDB
+CodeDB/
+*.old
+*/VisualGDBCache/*
+*.vgdbsettings
+*gcc_Debug.h
+*gcc_Release.h
 # DNX
 project.lock.json
 artifacts/
